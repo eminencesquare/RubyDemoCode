@@ -110,4 +110,4 @@ end
 
 puts "Step 15 : Close the browser"
 #close the driver.
-baseClass.closeDriver
+baseClass.closeBrowser

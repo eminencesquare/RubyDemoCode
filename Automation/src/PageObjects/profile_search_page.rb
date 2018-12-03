@@ -78,7 +78,7 @@ class ProfileSearchPage
     countFound = 0 # count for found keyword in the item.
     countNotFound = 0 # count for not found keyword in the item.
     itemHash.map do |item|
-  puts item # print the item .
+  # puts item # print the item .
     if (item[:name].downcase.include? (keyword.downcase))
       begin
         KeywordFound[countFound]={name: item[:name],Attribute: 'name'}

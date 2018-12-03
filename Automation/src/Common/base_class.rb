@@ -16,7 +16,7 @@ class BaseClass
     end # End of the case
   end # End of Method (initializeBrowser)
 
-  def closeDriver
+  def closeBrowser
     @driver.close # Driver closed
   end # End of Method (closeDriver)
 

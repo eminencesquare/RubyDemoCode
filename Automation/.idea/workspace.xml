@@ -4,7 +4,14 @@
     <bookmark url="file://$PROJECT_DIR$/src/PageObjects/landing_page.rb" line="28" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebc45609-6045-4c1e-83b1-c38697873af9" name="Default Changelist" comment="" />
+    <list default="true" id="ebc45609-6045-4c1e-83b1-c38697873af9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Automation description POC_Upwork.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tests/seacrh_freelancer_result_verification_test.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Common/base_class.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/Common/base_class.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PageObjects/profile_search_page.rb" beforeDir="false" afterPath="$PROJECT_DIR$/src/PageObjects/profile_search_page.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tests/SeacrhFreelancerResultVerificationTest.rb" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,50 +26,33 @@
     <SUITE FILE_PATH="coverage/Automaton@Test003.rcov" NAME="Test003 Coverage Results" MODIFIED="1543478998620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Automaton" />
     <SUITE FILE_PATH="coverage/Automaton@read_property_file.rcov" NAME="read_property_file Coverage Results" MODIFIED="1543742833394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Common" MODULE_NAME="Automaton" />
     <SUITE FILE_PATH="coverage/Automaton@Test002__1_.rcov" NAME="Test002 (1) Coverage Results" MODIFIED="1543748975255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Tests" MODULE_NAME="Automaton" />
+    <SUITE FILE_PATH="coverage/Automation@seacrh_freelancer_result_verification_test.rcov" NAME="seacrh_freelancer_result_verification_test Coverage Results" MODIFIED="1543848266008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/Tests" MODULE_NAME="Automaton" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Tests/SeacrhFreelancerResultVerificationTest.rb">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tests/seacrh_freelancer_result_verification_test.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="67">
-              <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+            <state relative-caret-position="181">
+              <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/PageObjects/profile_search_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1098">
-              <caret line="64" column="55" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
+            <state relative-caret-position="85">
+              <caret line="81" column="54" selection-start-line="81" selection-start-column="54" selection-end-line="81" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PageObjects/user_profile_page.rb">
+        <entry file="file://$PROJECT_DIR$/src/PageObjects/landing_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Common/common_utils.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PageObjects/company_profile_page.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            <state relative-caret-position="226">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -91,6 +81,9 @@
       <find>count</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -103,14 +96,14 @@
         <option value="$PROJECT_DIR$/src/Tests/Test002.rb" />
         <option value="$PROJECT_DIR$/src/Common/web_driver_utills.rb" />
         <option value="$PROJECT_DIR$/src/PageObjects/landing_page.rb" />
-        <option value="$PROJECT_DIR$/src/Common/base_class.rb" />
         <option value="$PROJECT_DIR$/src/Common/read_property_file.rb" />
         <option value="$PROJECT_DIR$/src/Common/common_utils.rb" />
         <option value="$PROJECT_DIR$/InputData/InputData.txt" />
-        <option value="$PROJECT_DIR$/src/PageObjects/profile_search_page.rb" />
         <option value="$PROJECT_DIR$/src/PageObjects/user_profile_page.rb" />
-        <option value="$PROJECT_DIR$/src/Tests/SeacrhFreelancerResultVerificationTest.rb" />
         <option value="$PROJECT_DIR$/src/PageObjects/company_profile_page.rb" />
+        <option value="$PROJECT_DIR$/src/Common/base_class.rb" />
+        <option value="$PROJECT_DIR$/src/Tests/SeacrhFreelancerResultVerificationTest.rb" />
+        <option value="$PROJECT_DIR$/src/PageObjects/profile_search_page.rb" />
       </list>
     </option>
   </component>
@@ -118,43 +111,39 @@
     <option name="width" value="1270" />
     <option name="height" value="788" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Automaton" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automaton" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Automaton" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automaton" type="462c0819:PsiDirectoryNode" />
-              <item name="Drivers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automaton" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automaton" type="462c0819:PsiDirectoryNode" />
-              <item name="InputData" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Automaton" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automaton" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Automaton" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automaton" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="PageObjects" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Automaton" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Automaton" type="462c0819:PsiDirectoryNode" />
+              <item name="Automation" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Automation" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Tests" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -162,6 +151,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,7 +183,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.SeacrhFreelancerResultVerificationTest">
+  <component name="RunManager" selected="Ruby.seacrh_freelancer_result_verification_test">
     <configuration name="SeacrhFreelancerResultVerificationTest" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Automaton" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -236,20 +226,6 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="Test003" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="Automaton" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Test003.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2" />
-    </configuration>
     <configuration name="profile_search_page" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Automaton" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -278,13 +254,27 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
+    <configuration name="seacrh_freelancer_result_verification_test" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Automaton" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/src/Tests" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/src/Tests/seacrh_freelancer_result_verification_test.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Ruby.seacrh_freelancer_result_verification_test" />
         <item itemvalue="Ruby.SeacrhFreelancerResultVerificationTest" />
         <item itemvalue="Ruby.profile_search_page" />
         <item itemvalue="Ruby.read_property_file" />
         <item itemvalue="Ruby.Test002" />
-        <item itemvalue="Ruby.Test003" />
       </list>
     </recent_temporary>
   </component>
@@ -307,22 +297,22 @@
       <workItem from="1543732058943" duration="2661000" />
       <workItem from="1543735051535" duration="3461000" />
       <workItem from="1543739304643" duration="36528000" />
+      <workItem from="1543846163087" duration="2436000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98472000" />
+    <option name="totallyTimeSpent" value="100908000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15355521" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15582451" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.26841244" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5335516" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3846154" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39952996" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -356,40 +346,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Common/loadPropertyFile.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tests/Test002.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Tests/debug.log">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Common/base_class.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PageObjects/landing_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Common/web_driver_utills.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Common/loadPropertyFile.js" />
+    <entry file="file://$PROJECT_DIR$/src/Tests/Test002.rb" />
+    <entry file="file://$PROJECT_DIR$/src/Tests/debug.log" />
     <entry file="file://$PROJECT_DIR$/InputData/InputData.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -412,26 +371,13 @@
           <nodes />
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="559.5" y="255.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="560.0" y="256.0" />
           <SelectedNodes />
           <Categories>
             <Category>All</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
           <VISIBILITY>Details</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PageObjects/profile_search_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1098">
-          <caret line="64" column="55" selection-start-line="64" selection-start-column="55" selection-end-line="64" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/PageObjects/user_profile_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -442,10 +388,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Common/common_utils.rb">
+    <entry file="file://$PROJECT_DIR$/src/PageObjects/user_profile_page.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -458,8 +404,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Tests/SeacrhFreelancerResultVerificationTest.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="67">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        <state relative-caret-position="444">
+          <caret line="112" column="22" selection-start-line="112" selection-start-column="22" selection-end-line="112" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Common/base_class.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Common/common_utils.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Common/web_driver_utills.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/seacrh_freelancer_result_verification_test.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="26" column="38" lean-forward="true" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PageObjects/landing_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PageObjects/profile_search_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="81" column="54" selection-start-line="81" selection-start-column="54" selection-end-line="81" selection-end-column="54" />
         </state>
       </provider>
     </entry>
